@@ -1,3 +1,2 @@
-print("hola a todos") #
+print("hola a todos")
 
-print("Hola Neyer")
